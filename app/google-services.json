@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438003121092",
+    "project_id": "gpssender-aee1e",
+    "storage_bucket": "gpssender-aee1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438003121092:android:8cd4ebb4904d94d49d8291",
+        "android_client_info": {
+          "package_name": "com.example.gpssender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438003121092-j2us7jrn7ko5lvr8rqso26n8ndducao2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOrPALzpd3fjgMoWhlvhl8DN50iM_oao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438003121092-j2us7jrn7ko5lvr8rqso26n8ndducao2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
